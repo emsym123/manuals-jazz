@@ -10,9 +10,9 @@
    :maxdepth: 2
    
    datasheet
-   power123
-   gpio123
-   uart123
+   power
+   gpio
+   uart
    lcd
    audio
    ifsum
